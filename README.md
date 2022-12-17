@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KvbiDSG
 - 👀 I’m interested in creating websites and apps!
-- 🌱 I’m currently learning react.js!
+- 🌱 I’m currently learning react.js and expanding my other IT skills!
 - 📫 How to reach me: 
 @: jakub.gradon@interia.pl
 LinkedIn: https://www.linkedin.com/in/jakub-gradoń-34470724b/
